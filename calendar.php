@@ -1,7 +1,7 @@
 <?php
 
 	// Set the url of the calendar feed.
-	$url = 'https://www.facebook.com/ical/u.php?uid=1646850716&key=AQAZPAmYiL4xEV_r';
+	$url = '####';
 
 	/*****************************************/
 
